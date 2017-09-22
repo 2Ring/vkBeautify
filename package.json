@@ -1,0 +1,16 @@
+{
+  "name": "vkbeautify",
+  "version": "0.98.0",
+  "description": "vkBeautify is a small, simple and powerfull javascript plugin to beautify XML, JSON, CSS and SQL text.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkiryukhin/vkBeautify.git"
+  },
+  "author": "Vadim Kiryukhin <vkiryukhin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vkiryukhin/vkBeautify/issues"
+  },
+  "homepage": "https://github.com/vkiryukhin/vkBeautify#readme"
+}
